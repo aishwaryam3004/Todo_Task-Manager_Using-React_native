@@ -24,6 +24,9 @@ A cross-platform Todo Task Management Mobile App developed using **React Native 
 > APK built using Expo EAS build or `expo build:android`.
 
 ---
+## 🧱 Architecture Diagram
+
+![Architecture Diagram](./assets/Architecture_diagram.png)
 
 ## 🛠️ Installation & Setup
 
