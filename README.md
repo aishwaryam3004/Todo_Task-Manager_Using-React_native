@@ -31,3 +31,8 @@ A cross-platform Todo Task Management Mobile App developed using **React Native 
    ```bash
    git clone https://github.com/aishwaryam3004/Todo_Task-Manager_Using-React_native.git
    cd Todo_Task-Manager_Using-React_native
+
+   ---
+
+**This project is a part of a hackathon run by [https://www.katomaran.com](https://www.katomaran.com)**.
+
