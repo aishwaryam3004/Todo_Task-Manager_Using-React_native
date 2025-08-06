@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466201283898",
+    "project_id": "reactnativetodoapp-845a7",
+    "storage_bucket": "reactnativetodoapp-845a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466201283898:android:a9180b4d3a8e86582e9403",
+        "android_client_info": {
+          "package_name": "com.reactnativetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466201283898-01ra45i7qm4esh628fkk7jjhc087l12k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativetodoapp",
+            "certificate_hash": "9fd2443e9e938246f41da5e757874cc84ae7a51f"
+          }
+        },
+        {
+          "client_id": "466201283898-f41scjapei8l3o2vn1v9es1s8kvsubni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjk8DZNNHwqlfMU3hpVHwq1QeA2owkqLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466201283898-f41scjapei8l3o2vn1v9es1s8kvsubni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
